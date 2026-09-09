@@ -1,0 +1,34 @@
+{
+  "test_rows": 2000,
+  "true_negatives": 1798,
+  "false_positives": 134,
+  "false_negatives": 8,
+  "true_positives": 60,
+  "accuracy": 0.929,
+  "sensitivity_recall": 0.8823529411764706,
+  "specificity": 0.9306418219461697,
+  "precision": 0.30927835051546393,
+  "f1_score": 0.4580152671755725,
+  "cross_validation": {
+    "accuracy": {
+      "mean": 0.9246000000000001,
+      "standard_deviation": 0.004042276586281549
+    },
+    "recall": {
+      "mean": 0.8997805092186129,
+      "standard_deviation": 0.019214459190713944
+    },
+    "specificity": {
+      "mean": 0.9254741393622161,
+      "standard_deviation": 0.004525603863861917
+    },
+    "precision": {
+      "mean": 0.29804211785495294,
+      "standard_deviation": 0.011603594341108792
+    },
+    "f1": {
+      "mean": 0.44756376772678347,
+      "standard_deviation": 0.012625777698649476
+    }
+  }
+}
